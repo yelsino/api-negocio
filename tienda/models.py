@@ -2,8 +2,8 @@ from django.db import models
 from django.utils import timezone
 # Create your models here.
 class Producto(models.Model):
-    nombre = models.CharField(max_length=50)
-    precio = models.IntegerField()
+    nombre = models.CharField(max_length=20)
+    precio = models.DecimalField(max_digits=4, decimal_places=2)
     imagen = models.ImageField(upload_to='productos', null=True)
     categoria = models.CharField(max_length=50)
     peso = models.IntegerField()

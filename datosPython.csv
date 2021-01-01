@@ -1,0 +1,24 @@
+Nombre,precio,imagen,categoria,peso,medida,estado
+Brocoli,2.50,brocoli.png,verdura,1,kilo,true
+Apio,1.50,brocoli.png,verdura,1,unidad,true
+Poro,1.00,brocoli.png,verdura,1,unidad,true
+Zapallo,1.50,brocoli.png,verdura,1,kilo,true
+Papa Blanca 1°,0.90,brocoli.png,verdura,1,kilo,true
+Zanahorea,1.50,brocoli.png,verdura,1,kilo,true
+Rocoto,3.50,brocoli.png,verdura,1,kilo,true
+Papa Huairo,2.50,brocoli.png,verdura,1,kilo,true
+Papa Amarilla,2.50,brocoli.png,verdura,1,kilo,true
+Papa Peruana,2.50,brocoli.png,verdura,1,kilo,true
+Papa Blanca 2°,0.50,brocoli.png,verdura,1,kilo,true
+Lechuga,1.30,brocoli.png,verdura,1,unidad,true
+Mango,5.50,brocoli.png,fruta,1,kilo,true
+Uva,4.50,brocoli.png,fruta,1,kilo,true
+Manzana de agua,2.50,brocoli.png,verdura,1,kilo,true
+Maiz morado,5.00,brocoli.png,verdura,1,kilo,true
+Pepino,1.00,brocoli.png,verdura,1,unidad,true
+Pimenton,1.00,brocoli.png,verdura,1,unidad,true
+Culantro,1.00,brocoli.png,verdura,1,unidad,true
+Perejil,1.00,brocoli.png,verdura,1,unidad,true
+Oregano,1.00,brocoli.png,verdura,1,unidad,true
+Habas,2.00,brocoli.png,verdura,1,kilo,true
+Tomate,2.50,brocoli.png,verdura,1,kilo,true
